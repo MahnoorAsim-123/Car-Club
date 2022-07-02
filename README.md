@@ -9,8 +9,6 @@ React Native App
 ![showCat](https://user-images.githubusercontent.com/92971645/177000516-4b5f6340-86f0-40ca-a5d7-4d10b479fdb4.PNG)
 ![showpkg](https://user-images.githubusercontent.com/92971645/177000607-4e5c6d00-b533-49f7-b549-5830560a3acc.PNG)
 ![8](https://user-images.githubusercontent.com/92971645/176975512-508f122d-d624-48f0-a86a-8bec464b6eab.PNG)
-![9](https://user-images.githubusercontent.com/92971645/176975514-02b1fb83-f822-4a5e-a2d5-5018ffdb47ec.PNG)
-![10](https://user-images.githubusercontent.com/92971645/176975516-51455418-1ff7-4c5f-8550-363d8b6f7042.PNG)
 ![11](https://user-images.githubusercontent.com/92971645/176975517-821f556b-3c87-479a-bdd6-ab03519176d0.PNG)
 ![12](https://user-images.githubusercontent.com/92971645/176975520-5f15f564-cadf-42a2-9d19-ceb00f191723.PNG)
 ![13](https://user-images.githubusercontent.com/92971645/176975521-2afba2ff-0ead-4e1c-8479-82f234618afa.PNG)
