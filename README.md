@@ -1,5 +1,3 @@
-# Car-Club
-React Native App
 ![1](https://user-images.githubusercontent.com/92971645/176975476-96a8de49-6e0e-4964-ad5a-c984044193db.PNG)
 ![2](https://user-images.githubusercontent.com/92971645/176975503-7b22f046-a033-4bf5-adb9-e30db922a85f.PNG)
 ![3](https://user-images.githubusercontent.com/92971645/176975506-1bddfa8e-4f03-46c2-b988-b8bca7bfa833.PNG)
